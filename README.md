@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm leandrotz</h1>
 <h3 align="center">I'm just learning for now.</h3>
 
-- 🌱 I’m currently learning **how to get a remote job.**
+- 🌱 I’m currently learning.
 
 - 📫 How to reach me **leandrotz@live.com**
 
